@@ -42,6 +42,7 @@
     text-transform: uppercase;
     color: #575757;
     transition: all .7s;
+    cursor: pointer;
 }
 
 .menu ul li:hover {
@@ -90,8 +91,8 @@
     font-size: 20px;
     border-radius: 50px;
     color: #fff;
+    cursor: pointer;
     background-color: #FC8D46;
-    /* For browsers that do not support gradients */
     background-image: linear-gradient(to right, #FC8D46, #FD4E2F);
 }
 
