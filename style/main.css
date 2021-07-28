@@ -28,7 +28,6 @@
 .logo h1 {
     font-size: 40px;
     color: #575757;
-    ;
 }
 
 .menu ul {
@@ -53,6 +52,7 @@
 
 .about-section {
     background-color: #FFF4EE;
+    height: 500px !important;
 }
 
 .main-content, .about-sections {
@@ -101,7 +101,8 @@
 
 .about-section .about-image img {
     width: 300px;
-    height: 450px;
+    height: 400px;
+     margin-top: 5px;
 }
 
 .about-section .main-btn {
